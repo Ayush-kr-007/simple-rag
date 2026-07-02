@@ -204,7 +204,7 @@ The application stores previous user queries and answers and includes them in th
 ### Clone Repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Ayush-kr-007/simple-rag
 cd document_qa_assistant
 ```
 
@@ -261,19 +261,6 @@ Ask questions:
 
 ```text
 Ask a question:
-What is the candidate's education?
-```
-
----
-
-## Example Questions
-
-- Who is this person?
-- What skills does the candidate have?
-- What projects has the candidate worked on?
-- What is the candidate's education?
-- What technologies does the candidate know?
-
 ---
 
 ## Technologies Used
