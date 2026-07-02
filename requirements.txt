@@ -1,0 +1,7 @@
+pypdf
+numpy
+sentence-transformers
+google-generativeai
+python-dotenv
+torch
+transformers
