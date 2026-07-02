@@ -30,7 +30,7 @@ document_qa_assistant/
 ├── rag.py
 ├── llm.py
 ├── requirements.txt
-├── .env
+├── .env.example
 └── sample.pdf
 ```
 
@@ -210,7 +210,7 @@ The application stores previous user queries and answers and includes them in th
 ### Clone Repository
 
 ```bash
-git clone https://github.com/Ayush-kr-007/simple-rag
+git clone https://github.com/Ayush-kr-007/simple-rag.git
 cd simple-rag
 ```
 
