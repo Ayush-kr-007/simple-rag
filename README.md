@@ -58,6 +58,12 @@ Final Answer
 
 ---
 
+## Demo Video
+
+Screen recording demonstrating the application and code walkthrough:
+
+https://drive.google.com/file/d/1hhVIoqnbxFHBqNgpUsjmU-yeVv65xpuK/view?usp=sharing
+
 ## File Descriptions
 
 ### 1. pdf_processor.py
