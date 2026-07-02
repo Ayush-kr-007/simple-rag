@@ -205,7 +205,7 @@ The application stores previous user queries and answers and includes them in th
 
 ```bash
 git clone https://github.com/Ayush-kr-007/simple-rag
-cd document_qa_assistant
+cd simple-rag
 ```
 
 ### Create Virtual Environment
@@ -261,6 +261,9 @@ Ask questions:
 
 ```text
 Ask a question:
+Who is this person?
+```
+
 ---
 
 ## Technologies Used
